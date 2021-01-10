@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,300&family=Poppins:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f7f9f9;
+}
+body {
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+#main {
+  border-radius: 1%;
+}
+#image {
+  max-width: 100%;
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2em;
+  display: block;
+}
+#title {
+  font-size: 3rem;
+  color: #495159;
+  text-align: center;
+  text-shadow: 3px 3px 6px rgba(150, 150, 150, 1);
+}
+#img-div {
+  padding-bottom: 2em;
+  text-align: center;
+}
+#title2 {
+  font-size: 0.8rem;
+  color: #cb8589;
+  text-align: center;
+  margin-top: 0.5em;
+}
+#img-caption {
+  color: #cb8589;
+  text-align: center;
+}
+#tribute-info {
+  color: #495159;
+  text-align: center;
+  padding: 0 8%;
+}
+#features {
+  margin-top: 1.5em;
+}
+#Content {
+  padding: 2em 15%;
+}
+#features {
+  color: #495159;
+}
+p {
+  font-size: 1rem;
+  padding: 0.5em 0;
+}
+#quote {
+  font-style: italic;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #495159;
+}
+#miss {
+  text-align: center;
+  color: #cb8589;
+}
+#credits {
+  text-align: center;
+  color: #495159;
+  padding: 0 15%;
+}
+a {
+  color: #cb8589;
+}
