@@ -71,7 +71,8 @@ p {
 #credits {
   text-align: center;
   color: #495159;
-  padding: 0 15%;
+  padding: 0em 15%;
+  margin-bottom: 2em;
 }
 a {
   color: #cb8589;
